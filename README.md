@@ -2,4 +2,8 @@
 
 Meu portfólio pessoal desenvolvido com HTML e CSS.
 
-🌐 [Acessar o portfólio](https://laurasouzaa.github.io)
+# Portfólio
+
+Meu portfólio pessoal desenvolvido com HTML e CSS.
+
+<a href="https://laurasouzaa.github.io" target="_blank">🌐 Acessar o portfólio</a>
