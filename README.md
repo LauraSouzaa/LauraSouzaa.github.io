@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre mim
 
-Olá! Eu sou a Laura Souzaa, estudante de Ciência da Computação e apaixonada por tecnologia e desenvolvimento de software.
+Olá! Eu sou a Laura Souza, estudante de Ciência da Computação e apaixonada por tecnologia e desenvolvimento de software.
 
 Atualmente estou estudando programação e construindo meus conhecimentos na área de desenvolvimento **Backend**.
 
